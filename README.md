@@ -5,10 +5,10 @@
    <div>
       <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/-NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
       <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/-Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
       <img src="https://img.shields.io/badge/-PostHog-F0AD4E?style=for-the-badge&logo=posthog&logoColor=white" />
       <img src="https://img.shields.io/badge/-CodeRabbit-FF5100?style=for-the-badge&logo=coderabbit&logoColor=white" />
@@ -41,7 +41,7 @@ MetricSub is a full-stack subscription management application designed to help u
 ### Backend & Database
 
 - **[Node.js](https://nodejs.org/)** serves as the cross-platform JavaScript runtime environment that executes the backend service, providing high performance for asynchronous API operations.
-- **[Express](https://expressjs.com/)** is a minimal and flexible Node.js web application framework. It serves as the middleware layer for the Recurrly backend, handling routing, API requests, and seamless integration with the database.
+- **[Express](https://expressjs.com/)** is a minimal and flexible Node.js web application framework. It serves as the middleware layer for the MetricSub backend, handling routing, API requests, and seamless integration with the database.
 - **[MongoDB](https://www.mongodb.com/)** is a NoSQL database used to store user data and subscription details. Its flexible document-based structure is ideal for handling the evolving data needs of a subscription management platform.
 
 ### Infrastructure & Tools
